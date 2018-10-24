@@ -9,5 +9,3 @@ A port of my PWA Calculator app to electron.
 * Add menus and other native features
 * To make it it installable
 * Fix bugs
-
-
